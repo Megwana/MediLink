@@ -6,3 +6,5 @@ MediLink is my own personal project, where I will look to design a data manageme
 
 ## Table of Contents
 1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
